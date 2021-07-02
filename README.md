@@ -5,6 +5,9 @@ What im working on now?
 - https://goals.lak.nz
 - https://plantme.io
 - Developer's OS - Linux with desktop focused for development use 
+- making http://list.lak.nz and shttp://speedo.lak.nz run offline
+
+
 
 
 
