@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+What im working on now?
+- https://github.com/lakshaysethi/manictime-google-calendar
+- https://goals.lak.nz
+- https://plantme.io
+- Developer's OS - Linux with desktop focused for development use 
+
+
+
+
 <!--
 **lakshaysethi/lakshaysethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
