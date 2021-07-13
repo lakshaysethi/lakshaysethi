@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 What im working on now?
-- https://github.com/lakshaysethi/manictime-google-calendar
-- https://goals.lak.nz
+- https://github.com/lakshaysethi/manictime-google-calendar 
+- https://goals.lak.nz and goalsapp.lak.nz
 - https://plantme.io
 - Developer's OS - Linux with desktop focused for development use 
-- making http://list.lak.nz and shttp://speedo.lak.nz run offline
+- improving http://list.lak.nz <--- 
+- and shttp://speedo.lak.nz 
 
 
 
