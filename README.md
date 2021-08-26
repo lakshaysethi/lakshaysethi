@@ -5,8 +5,7 @@ What im working on now?
 - https://goals.lak.nz and goalsapp.lak.nz
 - https://plantme.io
 - Developer's OS - Linux with desktop focused for development use 
-- improving http://list.lak.nz <--- 
-- and shttp://speedo.lak.nz 
+- and http://speedo.lak.nz 
 
 
 
