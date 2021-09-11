@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 What im working on now?
+- telegram/ chat bots
+- Uber driver helper app 
 - https://github.com/lakshaysethi/manictime-google-calendar 
 - https://goals.lak.nz and goalsapp.lak.nz
 - https://plantme.io
