@@ -1,14 +1,38 @@
 ### Hi there 👋
+I engineer Technical Solutions and Software Systems
 
-What im working on now?
-- telegram/ chat bots
-- Uber driver helper app 
-- https://github.com/lakshaysethi/manictime-google-calendar 
-- https://goals.lak.nz and goalsapp.lak.nz
+What im working on/Learning now?
+
+- I am working at CTEK, Hamilton, NZ
+
 - https://plantme.io
-- Developer's OS - Linux with desktop focused for development use 
-- and http://speedo.lak.nz 
 
+- telegram assistant bot
+
+- React
+
+- Linux magic and automation, DevOps etc
+
+Some of my Past projects that I use and still get some of my attention from time to time:
+
+- https://goals.lak.nz
+
+- Lak.nz - url shortner and my cute little domain 
+
+
+old projects
+
+- chat.lak.nz - chat app that uses websockets
+
+- linkednotes.lak.nz - tree like notes app that supports with unlimited children - whiteboard  - mindmap
+
+- http://speedo.lak.nz web speedometer
+
+- instagram clone made with Django
+
+- Parcel Tracking Android app 
+
+- other small and sandbox projects using different technologies 
 
 
 
