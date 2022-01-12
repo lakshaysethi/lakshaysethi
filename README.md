@@ -1,7 +1,7 @@
 ### Hi there 👋
 I engineer Technical Solutions and Software Systems
 
-What im working on/Learning now?
+What I'm working on/Learning now?
 
 - I am working at CTEK, Hamilton, NZ
 
