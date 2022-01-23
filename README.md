@@ -22,9 +22,9 @@ Some of my Past projects that I use and still get some of my attention from time
 
 old projects
 
-- chat.lak.nz - chat app that uses websockets
+- http://chat.lak.nz - chat app that uses websockets
 
-- linkednotes.lak.nz - tree like notes app that supports with unlimited children - whiteboard  - mindmap
+- http://linkednotes.lak.nz - tree like notes app that supports with unlimited children - whiteboard  - mindmap
 
 - http://speedo.lak.nz web speedometer
 
