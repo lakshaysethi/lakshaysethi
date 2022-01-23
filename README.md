@@ -9,9 +9,11 @@ What I'm working on/Learning now?
 
 - telegram assistant bot
 
-- React
+- Docker docker docker
 
 - Linux magic and automation, DevOps etc
+
+
 
 Some of my Past projects that I use and still get some of my attention from time to time:
 
@@ -34,7 +36,7 @@ old projects
 
 - other small and sandbox projects using different technologies 
 
-
+- https://lakshaysethi.com/
 
 
 
