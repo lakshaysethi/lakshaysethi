@@ -1,5 +1,5 @@
 ### Hi there 👋
-I engineer Technical Solutions and Software Systems
+I love engineering Technical Solutions and Software Systems
 
 What I'm working on/Learning now?
 
