@@ -17,7 +17,7 @@ Some of my Past projects that I use and still get some of my attention from time
 
 - https://goals.lak.nz
 
-- https://ak.nz - url shortner and my cute little domain 
+- https://lak.nz - url shortner and my cute little domain 
 
 
 old projects
