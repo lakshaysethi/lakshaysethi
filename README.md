@@ -38,6 +38,9 @@ old projects
 
 - https://lakshaysethi.com/
 
+My CV - https://CV.lak.nz 
+LinkedIn https://linkedin.lak.nz
+
 
 
 <!--
