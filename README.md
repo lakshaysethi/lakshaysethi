@@ -3,24 +3,18 @@ I love engineering Technical Solutions and Software Systems
 
 What I'm working on/Learning now?
 
-- I am working at PB Tech, Auckland as a DevOps Engineer
+- I am currently working witht the wonderful Web Development team at PB Tech, Auckland (pbtech.co.nz) as a DevOps Engineer, and was working with CTEK (First Watch Industrial Cybersecurity) in Hamilton, NZ before. 
 
-- https://plantme.io
+- telegram assistant bot (Time Manager and analysis with insights)
+- 
+My Past Work 
+- I have with Greenback NZ as a volunteer and on Contract Helping the team build and deploy the Plantme Website https://plantme.io
 
-- telegram assistant bot
-
-- Docker docker docker
-
-- Linux magic and automation, DevOps etc
-
-
-
-Some of my Past projects that I use and still get some of my attention from time to time:
+Some of my Past projects that I am proud of :)
 
 - https://goals.lak.nz
 
-- https://lak.nz - url shortner and my cute little domain 
-
+- https://lak.nz - url shortner (including sub-domains😉) and my cute little domain 
 
 old projects
 
@@ -30,13 +24,12 @@ old projects
 
 - http://speedo.lak.nz web speedometer
 
-- instagram clone made with Django
+- instagram clone made with Django in uni - it died on heroku 😢 
 
-- Parcel Tracking Android app 
+- Parcel Tracking Android app(uni project) https://github.com/lakshaysethi/Parcel_Tracking_App_lakshay
 
-- other small and sandbox projects using different technologies 
-
-- https://lakshaysethi.com/
+- other small and sandbox projects using different technologies can be found at:
+  - https://lakshaysethi.com/
 
 My CV 
 - https://CV.lak.nz
@@ -59,7 +52,26 @@ Why is My code not opensource ?
 
 - opensourcing and improving my url shortner app. https://lak.nz
 
-- Youtube videos of building these. May TheNewBoston's Spirit will on for ever
+- Youtube videos of building these. May TheNewBoston's Spirit stay alive on forever
+
+My Tech Skills
+- Django - 6/10
+- Backend App and service development with Python - 8/10
+- Front End Web design - 7/10
+  - React 4/10
+  - HTML/CSS 8/10
+  - JS - 9/10 
+- Docker - 7/10
+- Linux magic and automation, DevOps etc 5/10
+  - Gitlab CI - 7/10
+  - Cloud Compute (AWS GCP VPS) - 9/10
+
+Other Interestiong things about me:
+- I like Learning Chinese and can speak and converse in Chinese. (~4-5/10)
+- I really love food and spend on average 1h-1.5h on food each day. My favourite dish is Dosa but I like all food.
+- I really enjoy non-fiction books. Books and ideas by Robert Greene, Eckheart Tolle, Brian Tracy, Stephen Covey, and James Clear have really influenced my way of thinking.
+
+https://lakshaysethi.com
 
 <!--
 **lakshaysethi/lakshaysethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
