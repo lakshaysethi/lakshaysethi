@@ -8,7 +8,7 @@ What I'm working on/Learning now?
 - telegram assistant bot (Time Manager and analysis with insights)
 - 
 My Past Work 
-- I have with Greenback NZ as a volunteer and on Contract Helping the team build and deploy the Plantme Website https://plantme.io
+- I have worked with Greenback NZ as a volunteer and on-contract, helping the team build and deploy the Plantme Website https://plantme.io
 
 Some of my Past projects that I am proud of :)
 
