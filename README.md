@@ -3,7 +3,7 @@ I love engineering Technical Solutions and Software Systems
 
 What I'm working on/Learning now?
 
-- I am currently working witht the wonderful Web Development team at PB Tech, Auckland (pbtech.co.nz) as a DevOps Engineer, and was working with CTEK (First Watch Industrial Cybersecurity) in Hamilton, NZ before. 
+- I am currently working with the wonderful Web Development team at PB Tech, Auckland (pbtech.co.nz) as a DevOps Engineer, and was working with CTEK (First Watch Industrial Cybersecurity) in Hamilton, NZ before. 
 
 - telegram assistant bot (Time Manager and analysis with insights)
 - 
