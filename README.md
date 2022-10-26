@@ -66,10 +66,9 @@ My Tech Skills
   - Gitlab CI - 7/10
   - Cloud Compute (AWS GCP VPS) - 9/10
 
-Other Interestiong things about me:
+Other Interesting things about me:
 - I like Learning Chinese and can speak and converse in Chinese. (~4-5/10)
-- I really love food. My favourite dish is Dosa but I like all food. I also like walking and hiking with friends.
-
+- I love food. My favourite dish is Dosa but I like all food. I also like walking and hiking with friends.
 - I really enjoy non-fiction books. Books and ideas by Robert Greene, Eckheart Tolle, Brian Tracy, Stephen Covey, and James Clear have really influenced my way of thinking.
 
 https://lakshaysethi.com
