@@ -39,20 +39,18 @@ What I will be building next:
 - Money Manager Chat bot that helps you stay on top of your money and helps you budget and audit your income and expenses giviong insights just like my similar time manager chatbot
 - Zoom  web based Clone - to learn the tech related in video communications, and other front end web tech
 
-- Google Drive / Cloud Storage Web App 
+- Google Drive / Cloud Storage Web App  / Something similar to file.io
 
 - Android Notes app only for devices with a pen Example Samsung devices and other HP/chromebook, which will have an infinite depth of sub notes and excellent navigation so that we can really use the benefits of digital paper. I cant find any good pen and digital notes app currently that do this the closest thing to this is dynalist.io but that does not have any handwriting features
 
 Why is My code not opensource ?
 - Honestly because previously I did not know about the best practices / how to keep code opensource while keeping api keys and other secrets safe. I will be opensourcing my code soon.
 
-- Code for projects that I will be monetizing will stay closed source 
-
-- CV and resume generator/auto updator. Yes there are tool out there that do this but this can be open sources and automated linked is nice but has a lot of agenda in it. and this tool can and needs to keep it really Simple and elegant 
+- CV and resume generator/auto updater. Yes there are tool out there that do this but this can be open sourced and automated. LinkedIn is nice but has a lot of agenda in it, and this tool can and needs to keep it really Simple and elegant.  
 
 - opensourcing and improving my url shortner app. https://lak.nz
 
-- Youtube videos of building these. May TheNewBoston's Spirit stay alive on forever
+- Youtube videos of building these.
 
 My Tech Skills
 - Django - 6/10
@@ -72,18 +70,3 @@ Other Interesting things about me:
 - I really enjoy non-fiction books. Books and ideas by Robert Greene, Eckheart Tolle, Brian Tracy, Stephen Covey, and James Clear have really influenced my way of thinking.
 
 https://lakshaysethi.com
-
-<!--
-**lakshaysethi/lakshaysethi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
