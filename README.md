@@ -66,7 +66,10 @@ My Tech Skills
 
 Other Interesting things about me:
 - I like Learning Chinese and can speak and converse in Chinese. (~4-5/10)
-- I love food. My favourite dish is Dosa but I like all food. I also like walking and hiking with friends.
+- My favourite dish is Dosa. 
+- I also like walking and hiking with friends.
 - I really enjoy non-fiction books. Books and ideas by Robert Greene, Eckheart Tolle, Brian Tracy, Stephen Covey, and James Clear have really influenced my way of thinking.
 
 https://lakshaysethi.com
+https://blog.lakshaysethi.com/
+
